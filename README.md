@@ -1,5 +1,6 @@
 # TVC-rocket-simulation-using-MATLAB
 
+![Main](https://github.com/Darkk157night/TVC-rocket-simulation-using-MATLAB/blob/main/Images/TVCmain.png)
 
 ## Intuition behind the model
 
